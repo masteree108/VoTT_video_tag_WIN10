@@ -1,0 +1,6 @@
+在安裝好VoTT之後依照步驟建立好了檔案
+選擇Drone001的影片進行標註
+使用Draw Rectangle標註出people
+使用Active Learning自動標出bicycle
+使用ctrl+將people標籤進行鎖定
+最後匯出csv和json檔

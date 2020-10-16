@@ -1,0 +1,523 @@
+{
+    "name": "NTUT_Drone",
+    "securityToken": "NTUTDrone Token",
+    "description": "for video labeling",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "people",
+            "color": "#5db300"
+        },
+        {
+            "name": "bicycle",
+            "color": "#e81123"
+        }
+    ],
+    "id": "wqX_HRpiE",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "302845ee6d830bb65d033c787ebc5884",
+    "assets": {
+        "cd0ddeda0050cb2b92f92c1b8cbc12c1": {
+            "asset": {
+                "id": "cd0ddeda0050cb2b92f92c1b8cbc12c1",
+                "format": "666667",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=117.666667",
+                "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=117.666667",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "302845ee6d830bb65d033c787ebc5884",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 117.666667
+            },
+            "regions": [
+                {
+                    "id": "XzoxtJANv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "height": 69.11998901367188,
+                        "width": 103.64778584817245,
+                        "left": 2590.4704340440485,
+                        "top": 352.4399780273438
+                    },
+                    "points": [
+                        {
+                            "x": 2590.4704340440485,
+                            "y": 352.4399780273438
+                        },
+                        {
+                            "x": 2694.118219892221,
+                            "y": 352.4399780273438
+                        },
+                        {
+                            "x": 2694.118219892221,
+                            "y": 421.5599670410156
+                        },
+                        {
+                            "x": 2590.4704340440485,
+                            "y": 421.5599670410156
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "39d0ca2d3414b85831d7583a550b07a7": {
+            "asset": {
+                "id": "39d0ca2d3414b85831d7583a550b07a7",
+                "format": "333333",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=104.333333",
+                "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=104.333333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "302845ee6d830bb65d033c787ebc5884",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 104.333333
+            },
+            "regions": [
+                {
+                    "id": "7Jq1dJpKX",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "height": 158.40005493164062,
+                        "width": 63.34033798031865,
+                        "left": 2173.000893275539,
+                        "top": 352.4399780273438
+                    },
+                    "points": [
+                        {
+                            "x": 2173.000893275539,
+                            "y": 352.4399780273438
+                        },
+                        {
+                            "x": 2236.3412312558576,
+                            "y": 352.4399780273438
+                        },
+                        {
+                            "x": 2236.3412312558576,
+                            "y": 510.8400329589844
+                        },
+                        {
+                            "x": 2173.000893275539,
+                            "y": 510.8400329589844
+                        }
+                    ]
+                },
+                {
+                    "id": "_ToacVPFX",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "height": 118.0799560546875,
+                        "width": 43.18650421743205,
+                        "left": 2198.912839737582,
+                        "top": 113.4
+                    },
+                    "points": [
+                        {
+                            "x": 2198.912839737582,
+                            "y": 113.4
+                        },
+                        {
+                            "x": 2242.099343955014,
+                            "y": 113.4
+                        },
+                        {
+                            "x": 2242.099343955014,
+                            "y": 231.4799560546875
+                        },
+                        {
+                            "x": 2198.912839737582,
+                            "y": 231.4799560546875
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "bb9cc31b5a6587cf81728e5452e0c83d": {
+            "asset": {
+                "id": "bb9cc31b5a6587cf81728e5452e0c83d",
+                "format": "133333",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=52.133333",
+                "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=52.133333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "302845ee6d830bb65d033c787ebc5884",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 52.133333
+            },
+            "regions": [
+                {
+                    "id": "b4QYjrzvE",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "height": 178.55996704101562,
+                        "width": 100.7685098406748,
+                        "left": 1502.1706595595126,
+                        "top": 430.2
+                    },
+                    "points": [
+                        {
+                            "x": 1502.1706595595126,
+                            "y": 430.2
+                        },
+                        {
+                            "x": 1602.9391694001874,
+                            "y": 430.2
+                        },
+                        {
+                            "x": 1602.9391694001874,
+                            "y": 608.7599670410157
+                        },
+                        {
+                            "x": 1502.1706595595126,
+                            "y": 608.7599670410157
+                        }
+                    ]
+                },
+                {
+                    "id": "YwEBWNItHP",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "height": 2.880010986328125,
+                        "width": 5.758332357075914,
+                        "left": 1695.070290534208,
+                        "top": 404.2799560546875
+                    },
+                    "points": [
+                        {
+                            "x": 1695.070290534208,
+                            "y": 404.2799560546875
+                        },
+                        {
+                            "x": 1700.8286228912839,
+                            "y": 404.2799560546875
+                        },
+                        {
+                            "x": 1700.8286228912839,
+                            "y": 407.15996704101565
+                        },
+                        {
+                            "x": 1695.070290534208,
+                            "y": 407.15996704101565
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "b2720dadad10b709d4024a631c57e1cd": {
+            "asset": {
+                "id": "b2720dadad10b709d4024a631c57e1cd",
+                "format": "2",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=31.2",
+                "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=31.2",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "302845ee6d830bb65d033c787ebc5884",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 31.2,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "-oYyF5SWX",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "left": 3138.538284301758,
+                        "top": 525.1656568050385,
+                        "width": 104.69833374023438,
+                        "height": 233.4235417842865
+                    },
+                    "points": [
+                        {
+                            "x": 3138.538284301758,
+                            "y": 525.1656568050385
+                        },
+                        {
+                            "x": 3243.236618041992,
+                            "y": 525.1656568050385
+                        },
+                        {
+                            "x": 3243.236618041992,
+                            "y": 758.589198589325
+                        },
+                        {
+                            "x": 3138.538284301758,
+                            "y": 758.589198589325
+                        }
+                    ]
+                },
+                {
+                    "id": "kRJEy7kj77",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "left": 1189.1507720947266,
+                        "top": 1619.8030185699463,
+                        "width": 319.9076843261719,
+                        "height": 524.3529796600342
+                    },
+                    "points": [
+                        {
+                            "x": 1189.1507720947266,
+                            "y": 1619.8030185699463
+                        },
+                        {
+                            "x": 1509.0584564208984,
+                            "y": 1619.8030185699463
+                        },
+                        {
+                            "x": 1509.0584564208984,
+                            "y": 2144.1559982299805
+                        },
+                        {
+                            "x": 1189.1507720947266,
+                            "y": 2144.1559982299805
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "38f7c9558338d1cf7585cca0e4c6d703": {
+            "asset": {
+                "id": "38f7c9558338d1cf7585cca0e4c6d703",
+                "format": "266667",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=211.266667",
+                "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=211.266667",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "302845ee6d830bb65d033c787ebc5884",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/NTUT/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.266667,
+                "predicted": true
+            },
+            "regions": [
+                {
+                    "id": "TjBblwtcq",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "bicycle",
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "left": 893.4615898132324,
+                        "top": 181.70584201812744,
+                        "width": 431.3397789001465,
+                        "height": 178.19332838058472
+                    },
+                    "points": [
+                        {
+                            "x": 893.4615898132324,
+                            "y": 181.70584201812744
+                        },
+                        {
+                            "x": 1324.801368713379,
+                            "y": 181.70584201812744
+                        },
+                        {
+                            "x": 1324.801368713379,
+                            "y": 359.89917039871216
+                        },
+                        {
+                            "x": 893.4615898132324,
+                            "y": 359.89917039871216
+                        }
+                    ]
+                },
+                {
+                    "id": "xIyaztgdyo",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "left": 710.863037109375,
+                        "top": 486.5187692642212,
+                        "width": 116.14757537841797,
+                        "height": 227.4455738067627
+                    },
+                    "points": [
+                        {
+                            "x": 710.863037109375,
+                            "y": 486.5187692642212
+                        },
+                        {
+                            "x": 827.010612487793,
+                            "y": 486.5187692642212
+                        },
+                        {
+                            "x": 827.010612487793,
+                            "y": 713.9643430709839
+                        },
+                        {
+                            "x": 710.863037109375,
+                            "y": 713.9643430709839
+                        }
+                    ]
+                },
+                {
+                    "id": "bi0lFwfcl9",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "bicycle",
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "left": 442.7542304992676,
+                        "top": 100.00644207000732,
+                        "width": 197.2295379638672,
+                        "height": 88.72919082641602
+                    },
+                    "points": [
+                        {
+                            "x": 442.7542304992676,
+                            "y": 100.00644207000732
+                        },
+                        {
+                            "x": 639.9837684631348,
+                            "y": 100.00644207000732
+                        },
+                        {
+                            "x": 639.9837684631348,
+                            "y": 188.73563289642334
+                        },
+                        {
+                            "x": 442.7542304992676,
+                            "y": 188.73563289642334
+                        }
+                    ]
+                },
+                {
+                    "id": "MqwPe9buRM",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "people"
+                    ],
+                    "boundingBox": {
+                        "left": 841.3380432128906,
+                        "top": 100.50488233566284,
+                        "width": 230.71964263916016,
+                        "height": 100.37890434265137
+                    },
+                    "points": [
+                        {
+                            "x": 841.3380432128906,
+                            "y": 100.50488233566284
+                        },
+                        {
+                            "x": 1072.0576858520508,
+                            "y": 100.50488233566284
+                        },
+                        {
+                            "x": 1072.0576858520508,
+                            "y": 200.8837866783142
+                        },
+                        {
+                            "x": 841.3380432128906,
+                            "y": 200.8837866783142
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        }
+    }
+}
