@@ -1,0 +1,848 @@
+{
+    "name": "NTUT_Drone",
+    "securityToken": "NTUTDrone Token",
+    "description": "for video labeling",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "walk",
+            "color": "#5db300"
+        }
+    ],
+    "id": "SI9FFgwSb",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "7d6dc318617e654c8b7847676b20a919",
+    "assets": {
+        "7c3031e84235b1e928dc9e53eea904a7": {
+            "asset": {
+                "id": "7c3031e84235b1e928dc9e53eea904a7",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=3.533333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=3.533333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 3.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b09fab35fee81804a3b6d2fe82a00c61": {
+            "asset": {
+                "id": "b09fab35fee81804a3b6d2fe82a00c61",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=395.733333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=395.733333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 395.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "eb559b6283bb73c09af89aa8fad65f9c": {
+            "asset": {
+                "id": "eb559b6283bb73c09af89aa8fad65f9c",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=423.466667",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=423.466667",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 423.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "1a7565110c218e512400a2919e960f39": {
+            "asset": {
+                "id": "1a7565110c218e512400a2919e960f39",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=233.2",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=233.2",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 233.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "0e06e62a51c06ec1fb07e4bb469b9626": {
+            "asset": {
+                "id": "0e06e62a51c06ec1fb07e4bb469b9626",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=230.2",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=230.2",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 230.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "1b3bd99c8ff28fe8a1c095dbad3faa9d": {
+            "asset": {
+                "id": "1b3bd99c8ff28fe8a1c095dbad3faa9d",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=411.333333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=411.333333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 411.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "df0c842ccfd93290f13540a585f9bcce": {
+            "asset": {
+                "id": "df0c842ccfd93290f13540a585f9bcce",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=360.4",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=360.4",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 360.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "9218e11ea5a26da78daa2da70b6fa853": {
+            "asset": {
+                "id": "9218e11ea5a26da78daa2da70b6fa853",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=410.8",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=410.8",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 410.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "8587ed96aac28ee0b0d8a06629edd4bf": {
+            "asset": {
+                "id": "8587ed96aac28ee0b0d8a06629edd4bf",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=0",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=0",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 0
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "8df669036c33bc3771cc3abc46311776": {
+            "asset": {
+                "id": "8df669036c33bc3771cc3abc46311776",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=1.733333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=1.733333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 1.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "4011b798f975c73b735c7788de85c689": {
+            "asset": {
+                "id": "4011b798f975c73b735c7788de85c689",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=109.933333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=109.933333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 109.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "c7d71e7ee207f815bffb7015f554bb77": {
+            "asset": {
+                "id": "c7d71e7ee207f815bffb7015f554bb77",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=3.4",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=3.4",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 3.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "18294362f15fa50c5a32ec4da488d090": {
+            "asset": {
+                "id": "18294362f15fa50c5a32ec4da488d090",
+                "format": "666667",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=4.666667",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=4.666667",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 4.666667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "55fda609a62ab837771940afd812fd7c": {
+            "asset": {
+                "id": "55fda609a62ab837771940afd812fd7c",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=2.2",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=2.2",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 2.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "f9a7983848f06d1e056b6aaf1be45b7f": {
+            "asset": {
+                "id": "f9a7983848f06d1e056b6aaf1be45b7f",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=2.733333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=2.733333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 2.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "7579ada34ba38fe6f9c2afbf07600a67": {
+            "asset": {
+                "id": "7579ada34ba38fe6f9c2afbf07600a67",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=3",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=3",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 3
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "a433677792f7c3921ef7d92cd9c21f9b": {
+            "asset": {
+                "id": "a433677792f7c3921ef7d92cd9c21f9b",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=418.4",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=418.4",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 418.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "6274a8bec0680022b148ca093b38ef19": {
+            "asset": {
+                "id": "6274a8bec0680022b148ca093b38ef19",
+                "format": "133333",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=410.133333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=410.133333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 410.133333
+            },
+            "regions": [
+                {
+                    "id": "W0ZOHkl52",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "walk"
+                    ],
+                    "boundingBox": {
+                        "height": 351,
+                        "width": 232.15482205623903,
+                        "left": 1001.5043524824251,
+                        "top": 299.953125
+                    },
+                    "points": [
+                        {
+                            "x": 1001.5043524824251,
+                            "y": 299.953125
+                        },
+                        {
+                            "x": 1233.6591745386643,
+                            "y": 299.953125
+                        },
+                        {
+                            "x": 1233.6591745386643,
+                            "y": 650.953125
+                        },
+                        {
+                            "x": 1001.5043524824251,
+                            "y": 650.953125
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "934a23b00992bf17c29284fd8143ed21": {
+            "asset": {
+                "id": "934a23b00992bf17c29284fd8143ed21",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=409.133333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=409.133333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 409.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "09cca28ec3aae89e800be251946ac03a": {
+            "asset": {
+                "id": "09cca28ec3aae89e800be251946ac03a",
+                "format": "6",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=49.6",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=49.6",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 2,
+                    "type": 2
+                },
+                "timestamp": 49.6
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "a64676ccb727a220d56536ff2f8cd09c": {
+            "asset": {
+                "id": "a64676ccb727a220d56536ff2f8cd09c",
+                "format": "866667",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=259.866667",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=259.866667",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 259.866667
+            },
+            "regions": [
+                {
+                    "id": "6nF2X_1G_",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "walk"
+                    ],
+                    "boundingBox": {
+                        "height": 388.7998352050781,
+                        "width": 269.94727592267134,
+                        "left": 878.6784655096661,
+                        "top": 390.4032897949219
+                    },
+                    "points": [
+                        {
+                            "x": 878.6784655096661,
+                            "y": 390.4032897949219
+                        },
+                        {
+                            "x": 1148.6257414323375,
+                            "y": 390.4032897949219
+                        },
+                        {
+                            "x": 1148.6257414323375,
+                            "y": 779.203125
+                        },
+                        {
+                            "x": 878.6784655096661,
+                            "y": 779.203125
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "5979fa75f9bb2c750393e61aaf8287ee": {
+            "asset": {
+                "id": "5979fa75f9bb2c750393e61aaf8287ee",
+                "format": "6",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=257.6",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=257.6",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 257.6
+            },
+            "regions": [
+                {
+                    "id": "yHqqabRJX",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "walk"
+                    ],
+                    "boundingBox": {
+                        "height": 329.39991760253906,
+                        "width": 205.15988851054482,
+                        "left": 1418.573017355009,
+                        "top": 422.80320739746094
+                    },
+                    "points": [
+                        {
+                            "x": 1418.573017355009,
+                            "y": 422.80320739746094
+                        },
+                        {
+                            "x": 1623.7329058655537,
+                            "y": 422.80320739746094
+                        },
+                        {
+                            "x": 1623.7329058655537,
+                            "y": 752.203125
+                        },
+                        {
+                            "x": 1418.573017355009,
+                            "y": 752.203125
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "3a63c2a180a193e7e7ba49bc74495b23": {
+            "asset": {
+                "id": "3a63c2a180a193e7e7ba49bc74495b23",
+                "format": "133333",
+                "state": 2,
+                "type": 3,
+                "name": "Drone_001.mp4#t=256.133333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=256.133333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 256.133333
+            },
+            "regions": [
+                {
+                    "id": "L4LmdamcS",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "walk"
+                    ],
+                    "boundingBox": {
+                        "height": 367.19995880126953,
+                        "width": 199.76102537346222,
+                        "left": 1764.105406963972,
+                        "top": 417.4032897949219
+                    },
+                    "points": [
+                        {
+                            "x": 1764.105406963972,
+                            "y": 417.4032897949219
+                        },
+                        {
+                            "x": 1963.8664323374342,
+                            "y": 417.4032897949219
+                        },
+                        {
+                            "x": 1963.8664323374342,
+                            "y": 784.6032485961914
+                        },
+                        {
+                            "x": 1764.105406963972,
+                            "y": 784.6032485961914
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "4fbcab29645aed8e62f82d322432aed4": {
+            "asset": {
+                "id": "4fbcab29645aed8e62f82d322432aed4",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "Drone_001.mp4#t=254.133333",
+                "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4#t=254.133333",
+                "size": {
+                    "width": 3840,
+                    "height": 2160
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "7d6dc318617e654c8b7847676b20a919",
+                    "name": "Drone_001.mp4",
+                    "path": "file:D:/project/VoTT/Drone_Project/Drone_Source/001/Drone_001.mp4",
+                    "size": {
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 254.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        }
+    }
+}
