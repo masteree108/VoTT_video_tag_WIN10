@@ -1,17 +1,16 @@
-# NTUT_for_testing
-please typing your name below
-first_edit by Tinghau
-second by Grace
-third by Qian
-fourth by Peggy
-fifth by Louis
-sixth by NINGi
-seventh by jimmy
-eighth by Philip_DELL
-nineth by Philip_Asus
-tenth by Philip_WSL_2
+# NTUT_for VOTT export file trans to a video
 
-new students 
-who
-# VoTT_video_tag_WIN10
-# VoTT_video_tag_WIN10
+
+In VOTT can generate CSV or JSON files, but these files can not be converted into a movie for easy viewing and inspection, through the following program can convert VOTT export file into a movie
+
+
+#multi_tracking_excel_auto.py
+
+
+In this program, the corresponding time will be searched from the EXPORT CSV to mark on the screen, and produce a movie of the time the program is currently running
+
+
+#multi_tracking_json_auto.py
+
+In this program, the corresponding time will be searched from the EXPORT Json to mark on the screen, and produce a movie of the time the program is currently running
+
