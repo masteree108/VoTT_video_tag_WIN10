@@ -31,6 +31,6 @@ python ./coding/multi_tracking_json_auto.py --video ./video/race.mp4 --json ./Dr
 
 `--video` The movie that the user wants to output
 
-`--excel` The vott export json file
+`--json` The vott export json file
 
 `-rate`   Vott frame rate
