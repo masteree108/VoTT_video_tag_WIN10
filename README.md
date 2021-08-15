@@ -12,13 +12,13 @@ In this program, the corresponding time will be searched from the EXPORT CSV to 
 The execution instructions of the program are as follows:
 
 
-python ./coding/multi_tracking_excel_auto.py --video ./video/race.mp4 --excel ./Vott_csv_5/Drone_027-export.csv
+python ./coding/multi_tracking_excel_auto.py --video ./video/race.mp4 --excel ./Vott_csv_5/Drone_027-export.csv --rate 6
 
 `--video` The movie that the user wants to output
 
 `--excel` The vott export csv file 
 
-`-rate`   Vott frame rate
+`-rate`  Vott frame rate
 
 ## multi_tracking_json_auto.py
 
@@ -27,7 +27,7 @@ In this program, the corresponding time will be searched from the EXPORT Json to
 The execution instructions of the program are as follows:
 
 
-python ./coding/multi_tracking_json_auto.py --video ./video/race.mp4 --json ./Drone/Drone_001
+python ./coding/multi_tracking_json_auto.py --video ./video/race.mp4 --json ./Drone/Drone_001 --rate 6
 
 `--video` The movie that the user wants to output
 
